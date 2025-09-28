@@ -1,4 +1,4 @@
-## ✅ Competências Adquiridas: Estruturas Condicionais
+## ✅ Reforçando JS: Estruturas Condicionais
 
 Neste módulo, conhecimento prático e apliquei conceitos de programação em JavaScript, com foco no uso de estruturas condicionais.
 
